@@ -7,10 +7,14 @@ The original one is [available on the CF blog][cf-blog].
 
 I thought it would be very convenient to have it in a text format that can easily be versioned and modified with dev tools.
 So here we go, here is a Typst version of the document.
-I won’t have the bandwidth to review issues and PRs so they are locked.
-But you can still fork it and modify it as you wish on your fork.
 
 > Remark: This conversion from the official published PDF has been done with the help of automation tools (LLMs) so please report discrepancies if you spot some.
+
+I won’t have the bandwidth to review issues so they are locked.
+Any abusive PR will be closed.
+I will only accept PRs that improve this document by fixing mistakes, not modifying it.
+I will archive this project if the PRs start getting unsustainable or spammy.
+But you can still fork it and modify it as you wish on your fork.
 
 ## Setup
 
